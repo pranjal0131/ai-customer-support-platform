@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp*/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+.uv-cache/
+.uv-python/
+.uv-tools/
+.docker-check/
+.hf-cache/
+
+# JavaScript
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Local configuration and data
+.env
+!.env.example
+data/raw/
+data/processed/
+data/*.db
+data/*.sqlite*
+models/**/*.bin
+models/**/*.pt
+models/**/*.pth
+models/**/*.safetensors
+models/**/*.pkl
+models/**/*.joblib
+models/**/*.faiss
+models/**/tokenizer.json
+models/**/tokenizer_config.json
+models/**/vocab.*
+models/**/config.json
+models/**/special_tokens_map.json
+!models/.gitkeep
+models/semantic/
+
+# Tooling / OS
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
