@@ -17,10 +17,13 @@ venv/
 node_modules/
 frontend/dist/
 *.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
 
 # Local configuration and data
 .env
 !.env.example
+.agents/
 data/raw/
 data/processed/
 data/*.db

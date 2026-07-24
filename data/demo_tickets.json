@@ -1,0 +1,44 @@
+[
+  {
+    "subject": "ATM withdrawal missing",
+    "text": "The ATM declined my withdrawal but the cash amount is missing from my balance. I need this fixed urgently.",
+    "customer_name": "Maya Chen",
+    "channel": "chat",
+    "status": "open"
+  },
+  {
+    "subject": "Card delivery tracking",
+    "text": "My new card was due yesterday. Can you tell me how to track the card delivery?",
+    "customer_name": "Daniel Okafor",
+    "channel": "email",
+    "status": "pending"
+  },
+  {
+    "subject": "Duplicate card charge",
+    "text": "I was charged twice for the same restaurant purchase and I am disappointed. Please refund the duplicate payment.",
+    "customer_name": "Sofia Martins",
+    "channel": "web",
+    "status": "open"
+  },
+  {
+    "subject": "Exchange fee question",
+    "text": "General question about the exchange rate and fees for using my card abroad when convenient.",
+    "customer_name": "Noah Williams",
+    "channel": "email",
+    "status": "resolved"
+  },
+  {
+    "subject": "Account access blocked",
+    "text": "My login is blocked and I cannot access funds. This is an emergency, please help now.",
+    "customer_name": "Aisha Rahman",
+    "channel": "phone",
+    "status": "open"
+  },
+  {
+    "subject": "Transfer completed",
+    "text": "Thanks, the bank transfer to my recipient is now resolved. Great support.",
+    "customer_name": "Leo Garcia",
+    "channel": "chat",
+    "status": "closed"
+  }
+]
