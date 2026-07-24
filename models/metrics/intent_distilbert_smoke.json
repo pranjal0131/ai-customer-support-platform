@@ -1,0 +1,14 @@
+{
+  "task": "intent",
+  "model": "DistilBERT smoke",
+  "dataset": "PolyAI/banking77",
+  "split": "test[:400]",
+  "metrics": {
+    "accuracy": 0.0,
+    "macro_precision": 0.0,
+    "macro_recall": 0.0,
+    "macro_f1": 0.0
+  },
+  "created_at": "2026-07-22T11:57:31.649739+00:00",
+  "artifact_path": "models\\intent\\distilbert-smoke\\best"
+}

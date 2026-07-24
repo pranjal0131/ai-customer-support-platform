@@ -1,0 +1,6 @@
+{
+  "kind": "sklearn",
+  "model": "Linear SVM",
+  "macro_f1": 0.859336,
+  "artifact": "models\\intent\\best_model.joblib"
+}

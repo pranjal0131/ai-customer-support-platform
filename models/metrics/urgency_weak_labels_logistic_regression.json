@@ -1,0 +1,14 @@
+{
+  "task": "urgency_weak_labels",
+  "model": "Logistic Regression",
+  "dataset": "PolyAI/banking77 + deterministic weak rules",
+  "split": "held-out weak labels",
+  "metrics": {
+    "accuracy": 0.99,
+    "macro_precision": 0.925158,
+    "macro_recall": 0.873288,
+    "macro_f1": 0.897436
+  },
+  "created_at": "2026-07-22T11:38:58.404973+00:00",
+  "artifact_path": null
+}

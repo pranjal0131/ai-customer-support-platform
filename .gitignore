@@ -40,6 +40,9 @@ models/**/tokenizer_config.json
 models/**/vocab.*
 models/**/config.json
 models/**/special_tokens_map.json
+models/**/checkpoint-*/
+models/**/trainer_state.json
+models/**/generation_config.json
 !models/.gitkeep
 models/semantic/
 

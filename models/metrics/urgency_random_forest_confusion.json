@@ -1,0 +1,17 @@
+{
+  "labels": [
+    "critical",
+    "high",
+    "medium"
+  ],
+  "matrix": [
+    [
+      2,
+      6
+    ],
+    [
+      0,
+      292
+    ]
+  ]
+}
